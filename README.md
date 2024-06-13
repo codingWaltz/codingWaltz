@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning front-end development and data analytics w/ Python!
+🌱 I’m currently learning full-stack development and data analytics w/ Python!
 
 <!--
 **codingWaltz/codingWaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
